@@ -27,4 +27,4 @@ print(generate_password(12))  # Пароль без спец. символов, 
 
 print(generate_password(17))
 
-print(generate_password())
+print(generate_password(56))
